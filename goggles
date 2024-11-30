@@ -1,6 +1,6 @@
 ! name: FMHY search
 ! description: Prioritize searching through FMHY piracy listed website, mainly for French content.
-! public: false
+! public: true
 ! author: The_Legend_
 
 $discard
