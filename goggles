@@ -1,0 +1,25 @@
+! name: FMHY search
+! description: Prioritize searching through FMHY piracy listed website, mainly for French content.
+! public: false
+! author: The_Legend_
+
+$discard
+$boost=1,site=www.seefrench.xyz
+$boost=1,site=v5.voiranime.com
+$boost=1,site=annas-archive.org
+$boost=1,site=z-lib.gs
+$boost=1,site=www5.bookys-ebooks.com
+$boost=1,site=steamrip.com
+$boost=1,site=gog-games.to
+$boost=1,site=steamgg.net
+$boost=1,site=romheaven.com
+$boost=1,site=cdromance.org
+$boost=1,site=archive.org
+$boost=1,site=cracksurl.com
+$boost=1,site=www.softlay.com/downloads
+$boost=1,site=platinmods.com
+$boost=1,site=liteapks.com
+$boost=1,site=androeed.store
+$boost=1,site=www.sharewood.tv
+$boost=1,site=feminalpes.fr
+$boost=1,site=anime-sama.fr
